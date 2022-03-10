@@ -4,23 +4,37 @@ Reto. Describe el proceso en que se computa las siguientes fórmulas.
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
 1.- Realizar lo que hay dentro de los parentésis (18/9 * 2 + 16)( 5 * 4 – 3^3)
+
 2.- El primer parentésis (18/9 * 2 + 16)
+
 3.- El segundo parentésis ( 5 * 4 – 3^3)
+
 4.- Resultado del primer parentésis(¿?) - Resultado del segundo parentésis(¿?)
+
 5.- Resultado
 
 X = (5 + 2 * 4) – (25 +. 5)2
+
 1.- Realizar lo que hay dentro de los parentésis (5 + 2 * 4)(25 +. 5)
+
 2.- El primer parentésis (5 + 2 * 4)
+
 3.- El segundo parentésis (25 +. 5)
+
 4.- Resultado del primer parentésis(¿?) - Resultado del segundo parentésis(¿?)2
+
 5.- Resultado
 
 X = (100/5^2 + 1) + 11 * 3
+
 1.- Realizar lo que hay dentro de los parentésis (100/5^2 + 1)
+
 2.- El primer parentésis (100/5^2 + 1)
+
 3.- Operación fuera parentésis 11 * 3
+
 4.- Resultado del primer parentésis(¿?)+ Resultado operación fuera de parentésis
+
 5.- Resultado
 
 
