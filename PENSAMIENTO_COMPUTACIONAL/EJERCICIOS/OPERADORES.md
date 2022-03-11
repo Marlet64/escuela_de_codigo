@@ -49,8 +49,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
-1.- 30 > = bono
-2.-  
+1.-  > = 30
+2.-  < 30
+3.- 
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
