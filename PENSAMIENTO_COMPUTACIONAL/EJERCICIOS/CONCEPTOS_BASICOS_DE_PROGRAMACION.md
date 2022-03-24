@@ -6,7 +6,6 @@ P1.- ython es un lenguaje sencillo de leer y escribir debido a su alta similitud
 
 ![image](https://user-images.githubusercontent.com/101213020/157935472-5f567337-4fe6-4d3d-aa89-1a2a69a69e7d.png)
 
-
 ## LENGUAJE 2
 2. C: programación de bajo nivel 
 Con 50 años de existencia y presencia en el mercado, el lenguaje C se utiliza para escribir aplicaciones destinadas a casi todas las plataformas disponibles. Es fácil de leer, flexible y eficiente en el uso de la memoria y se ejecuta en la mayoría de los sistemas operativos.
@@ -14,8 +13,6 @@ Con 50 años de existencia y presencia en el mercado, el lenguaje C se utiliza p
 C es utilizado para desarrollar aplicaciones de bajo nivel, al considerárselo el lenguaje más cercano al hardware, con excepción del ascendente ‘assembly language’, que se ubica en la posición 12° del índice Tiobe luego de subir dos puestos en el último año.
 
 ![image](https://user-images.githubusercontent.com/101213020/157936663-17a201f5-c608-4ade-aea9-5ad82ae71387.png)
-
-
 
 ## LENGUAJE 3
 3. Java: interactuar con máquinas y orientar sus procesos para facilitar la vida de las personas.
