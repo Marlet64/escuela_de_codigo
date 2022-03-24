@@ -4,10 +4,15 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
 Algoritmo  un_numero_y_lo_multiplique_por_9
+
 	Escribir "ingresa un numero"
+	
 	Leer num
+	
 	res<-num*9
+	
 	Escribir "resultado de multiplicar " , num , " por 9 es : " , res
+	
 	
 FinAlgoritmo
 
