@@ -18,3 +18,6 @@ Utilizando una herramienta llamada Miro, crearemos nuestro público objetivo
 ![image](https://user-images.githubusercontent.com/91554777/161871996-34895938-93cc-47e9-83f5-f431c8652de6.png)
 
 Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
+
+
+![image](https://user-images.githubusercontent.com/101213020/162586702-66dd62bf-5945-4077-9751-571e1d98cd86.png)
