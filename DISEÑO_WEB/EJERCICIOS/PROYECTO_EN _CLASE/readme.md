@@ -18,8 +18,10 @@ Utilizando una herramienta llamada Miro, crearemos nuestro público objetivo
 
 Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
 
-
 ![image](https://user-images.githubusercontent.com/101213020/162014572-a0650cbe-9fdd-42b9-ac46-1ac05da48cb0.png)
+
+![image](https://user-images.githubusercontent.com/101213020/162586860-47b5d660-ddad-4e24-9958-3063ed9764f3.png)
+
 
 FASE 2 DISEÑO
 UI
