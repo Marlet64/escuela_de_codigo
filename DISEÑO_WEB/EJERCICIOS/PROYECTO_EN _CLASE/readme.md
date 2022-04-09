@@ -20,7 +20,7 @@ Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objeti
 
 ![image](https://user-images.githubusercontent.com/101213020/162014572-a0650cbe-9fdd-42b9-ac46-1ac05da48cb0.png)
 
-![image](https://user-images.githubusercontent.com/101213020/162586860-47b5d660-ddad-4e24-9958-3063ed9764f3.png)
+![image](https://user-images.githubusercontent.com/101213020/162587460-955222f7-a0b8-498d-b514-ed13324ad619.png)
 
 
 FASE 2 DISEÑO
