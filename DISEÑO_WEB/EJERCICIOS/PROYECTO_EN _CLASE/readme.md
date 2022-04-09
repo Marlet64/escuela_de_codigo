@@ -29,6 +29,7 @@ Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> P
 
 https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
 
+![image](https://user-images.githubusercontent.com/101213020/162590814-4c798b66-5f87-43b6-be36-b00e0422cc5a.png)
 
 
 UX
