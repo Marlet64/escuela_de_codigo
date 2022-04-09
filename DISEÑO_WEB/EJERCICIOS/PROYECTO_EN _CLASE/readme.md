@@ -29,5 +29,7 @@ Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> P
 
 https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
 
+
+
 UX
 Usando figma realizamos nuestro mockup --> https://www.figma.com/file/TakFMjlhLuybKfWnL6XaEQ/Untitled?node-id=7%3A345
